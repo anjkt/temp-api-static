@@ -1,16 +1,19 @@
 {
     "data": [
         {
-            "title": "Some title on AIR",
-            "img": "UQBWAuoppkw"
+            "title": "Rapper Balen Shah announces to contest for Mayor of Kathmandu",
+            "img": "https://myrepublica.nagariknetwork.com/uploads/media/1639724777_balun5-1200x560_20211217140137.jpg",
+            "url": "https://myrepublica.nagariknetwork.com/news/rapper-balen-shah-announces-to-contest-for-mayor-of-kathmandu/"
         },
         {
-            "title": "Some Title",
-            "img": "UQBWAuoppkw"
+            "title": "Becoming young or independent isn’t enough to woo voters.",
+            "img": "https://english.onlinekhabar.com/wp-content/uploads/2022/03/leadership-g91feff478_1280.png",
+            "url": "https://english.onlinekhabar.com/independent-candidate-local-elections.html"
         },
         {
-            "title": "Some Title of Development",
-            "img": "UQBWAuoppkw"
+            "title": "Rap shows in Nepal are on the rise.",
+            "img": "https://english.onlinekhabar.com/wp-content/uploads/2022/03/dmriti-wai-wai-dynamite-breakbars.jpg",
+            "url": "https://english.onlinekhabar.com/rap-show-nepal-rise.html"
         }
     ]
 }
